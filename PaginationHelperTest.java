@@ -1,4 +1,4 @@
-package test;
+package exam;
 
 import org.junit.Assert;
 import org.junit.Before;
